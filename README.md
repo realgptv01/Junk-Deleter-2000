@@ -10,4 +10,5 @@ Junk-Deleter-2000 was originally made and given to me by my friend deathrobloxwa
 
 # How do you use Junk-Deleter-2000❓
 <img width="326" height="194" alt="image" src="https://github.com/user-attachments/assets/7796a0e6-511d-4fd1-95f3-027df02cd62e" /> <br>
-The program will automatically choose your temp folder
+The program will automatically choose your temp folder <br>
+If something wrong happens, an error will show and how to resolve it.
